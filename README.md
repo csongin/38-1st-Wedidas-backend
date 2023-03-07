@@ -1,4 +1,4 @@
-# [WEDIDAS]
+# [Wedidas]
 
 # 1) 프로젝트소개
 
@@ -7,7 +7,6 @@
 1. 국내 최대의 스포츠커머스 사이트
 2. 직관적인 UI
 3. 좋아요, 장바구니, 정렬기능 등 많은 기능 연습가능
-4. 많지 않은 데이터로 불필요한 데이터작업 X
 
 ## 노션페이지
 
@@ -42,8 +41,8 @@
 - 천송인 : ERD구성, 로그인회원가입API, 장바구니,위시리스트 API, 디테일작업
 
 ### 트렐로
-<img width="1189" alt="스크린샷 2022-10-28 오후 3 46 58" src="https://user-images.githubusercontent.com/98324846/198525858-15a48048-3a6f-4825-b42d-77d61fc1248d.png">
 
+<img width="1189" alt="스크린샷 2022-10-28 오후 3 46 58" src="https://user-images.githubusercontent.com/98324846/198525858-15a48048-3a6f-4825-b42d-77d61fc1248d.png">
 
 - 트렐로 활용 매일 10시 DailyStandingMeeting진행
 
@@ -56,15 +55,12 @@
 # 4) 결과물
 
 - 백엔드 데이터 ERD
-![Wedidas](https://user-images.githubusercontent.com/98324846/198525739-f1d453df-649b-4b88-a5e4-7627a50404cb.png)
-
-
+  ![Wedidas](https://user-images.githubusercontent.com/98324846/198525739-f1d453df-649b-4b88-a5e4-7627a50404cb.png)
 
 - 프론트엔드 결과물
 
 [https://youtu.be/wxar1wj1cNQ](https://youtu.be/wxar1wj1cNQ)
 <img width="1440" alt="스크린샷 2022-10-23 오후 2 23 35" src="https://user-images.githubusercontent.com/98324846/198525783-112eadd2-6590-42f4-a9f0-8aad6bfb0d35.png">
-
 
 # 5) 깃헙주소
 
