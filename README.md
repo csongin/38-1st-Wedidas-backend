@@ -8,10 +8,6 @@
 2. 직관적인 UI
 3. 좋아요, 장바구니, 정렬기능 등 많은 기능 연습가능
 
-## 노션페이지
-
-[[WEDIDAS]](https://www.notion.so/WEDIDAS-dfe9c68b30d047ef84af263fdd7c8f54)
-
 # 2) 페이지 기획
 
 ### 개발기간 (참여인원 : 5명)
@@ -61,11 +57,6 @@
 
 [https://youtu.be/wxar1wj1cNQ](https://youtu.be/wxar1wj1cNQ)
 <img width="1440" alt="스크린샷 2022-10-23 오후 2 23 35" src="https://user-images.githubusercontent.com/98324846/198525783-112eadd2-6590-42f4-a9f0-8aad6bfb0d35.png">
-
-# 5) 깃헙주소
-
-- 백엔드 : [https://github.com/wecode-bootcamp-korea/38-1st-Wedidas-backend](https://github.com/wecode-bootcamp-korea/38-1st-Wedidas-backend)
-- 프론트엔드 : [https://github.com/wecode-bootcamp-korea/38-1st-Wedidas-frontend](https://github.com/wecode-bootcamp-korea/38-1st-Wedidas-frontend)
 
 # Reference : adidas
 
