@@ -44,7 +44,7 @@
 
 # 3) 사용 기술 스택
 
-- front-end : React.js, scss
+- front-end : React.js, css
 - back-end : Node.js, Express, MySql, dbmate, Bcrypt
 - common : RESTful API
 
